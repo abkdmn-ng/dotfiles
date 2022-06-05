@@ -1,0 +1,7 @@
+git
+feh
+nerd-fonts
+ttf-inconsolata
+python-pywal
+alsa-utils
+
