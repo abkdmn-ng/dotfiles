@@ -1,0 +1,7 @@
+dwm/*.rej
+dwm/*.orig
+dmenu/*.rej
+dmenu/*.orig
+st/*.rej
+st/*.orig
+
