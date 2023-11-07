@@ -1,9 +1,10 @@
 # dotfiles
 dmenu 
 dwm
-dwmblocks
+polybar
 lf
 st
+cascadia font
 surf
 patches
 
